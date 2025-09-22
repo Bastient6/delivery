@@ -1,2 +1,2 @@
-find . -name "*~" -o -name "#*#" -delete
-
+#!/bin/sh
+find . -name "*~" -delete -o -name "#*#" -delete
