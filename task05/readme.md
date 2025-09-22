@@ -1,0 +1,1 @@
+- j'utilise $1 pour récupérer le paramètre et j'excute les commande nécessaire pour push
