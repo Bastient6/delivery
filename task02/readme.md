@@ -1,4 +1,5 @@
-```mkdir task02
+``` bash
+    mkdir task02
     cd task02
     touch task02
     echo "Z\n"
